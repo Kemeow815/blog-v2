@@ -1,11 +1,11 @@
 ---
-title: Anthony Fu
-description: Anthony Fu's Portfolio
+title: 克喵Kemeow
+description: 克喵Kemeow's Portfolio
 image: https://antfu.me/og.png
 art: random
 ---
 
-Hey, I am Anthony Fu, a fanatical open sourceror.
+Hey, I am 克喵Kemeow, a fanatical open sourceror.
 
 Working at {NuxtLabs}<br>
 Creator of {Vitest} {Slidev} {VueUse} {UnoCSS} {Elk} {Type Challenges}<br>
@@ -40,7 +40,7 @@ Find me on
   <a href="https://weibo.com/u/7485197193" target="_blank"><span op75 i-simple-icons-sinaweibo /> 微博</a>
 </p>
 
-Or mail me at <span font-mono>hi<span i-carbon-at/>antfu.me</span>
+Or mail me at <span font-mono>hi<span i-carbon-at/>kemiao@kmblog.icu</span>
 
 ---
 
